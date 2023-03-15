@@ -1,0 +1,3 @@
+﻿  SeqList.c
+D:\VSProjects\Static SeqList\SeqList.c(101,14): warning C4047: “return”:“ElemType”与“void *”的间接级别不同
+  Static SeqList.vcxproj -> D:\VSProjects\Static SeqList\x64\Debug\Static SeqList.exe
